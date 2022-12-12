@@ -1,0 +1,3 @@
+[submodule "extern/python-openpyxl"]
+	path = extern/python-openpyxl
+	url = https://github.com/ShunMare/python-openpyxl.git
